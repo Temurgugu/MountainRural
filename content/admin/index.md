@@ -1,6 +1,6 @@
 ---
-# Generate Wowchemy CMS
-type: wowchemycms
+# Generate MountainRural
+type: MountainRural
 private: true
 outputs:
 - wowchemycms_config

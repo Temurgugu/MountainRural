@@ -4,6 +4,9 @@ title: Publications
 # Listing view
 view: Masonry
 
+design:
+  columns: '1' 
+  
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
